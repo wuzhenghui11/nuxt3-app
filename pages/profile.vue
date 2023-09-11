@@ -10,4 +10,5 @@
     //   return /^\d+$/.test(route.params.id)
     // }
   })
+  const aa = ref(1)
 </script>
